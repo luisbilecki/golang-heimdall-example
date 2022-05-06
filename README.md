@@ -9,3 +9,4 @@ This project contains a use case of this library.
 
 ### How to run?
 
+```go run main.go```
